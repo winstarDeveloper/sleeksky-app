@@ -1,0 +1,6 @@
+.footer {
+  flex-grow: 1;
+  overflow-y: auto;
+  align-self: flex-end;
+  justify-content: center;
+}
